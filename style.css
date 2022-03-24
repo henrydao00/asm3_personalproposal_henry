@@ -80,15 +80,11 @@ nav li #highlight{
 	float: right;
 	padding:10px;
 }
-.myimg{
-	width: 300px;
-	height:auto;
+.myimg {
 	margin: auto;
 }
 .story{
 	padding-right: 20px;
-	width: 400px;
-	height: 420px;
 }
 .colum{
 	display: inline-flex;
