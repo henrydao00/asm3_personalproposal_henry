@@ -5,11 +5,11 @@
 	margin-left: auto;
 	margin-right: auto;
 	font-family: Times;
-	border: 3px solid #6699ff
+	border: 3px solid #999966
 }
 .head{
 	height: 200px;
-	background: #6699ff
+	background: #999966
 }
 .head h1{
 	text-align: center;
@@ -95,7 +95,7 @@ nav li #highlight{
 footer{
 	padding: 20px;
 	text-align: center;
-	background-color: #6699ff;
+	background-color: #999966;
 	clear: both;
 	height: 40px;
 }
